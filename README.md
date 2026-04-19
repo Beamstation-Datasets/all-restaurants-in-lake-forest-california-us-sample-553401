@@ -9,9 +9,9 @@
 | Dataset ID | `553401` |
 | Location | Lake Forest |
 | Category | Restaurants |
-| Full dataset size | 253 records |
-| Free sample size | 25 records (9.88%) |
-| Last export | 2026-04-09T14:26:23.916703+00:00 |
+| Full dataset size | 252 records |
+| Free sample size | 25 records (9.92%) |
+| Last export | 2026-04-16T15:36:20.099118+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lake-forest-california-us-sample-553401/releases/download/sample-latest/beamstation_553401_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
