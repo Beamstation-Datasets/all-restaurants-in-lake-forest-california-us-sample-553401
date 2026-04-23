@@ -1,6 +1,6 @@
 # All Restaurants in Lake Forest, California, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `553401` |
 | Location | Lake Forest |
 | Category | Restaurants |
-| Full dataset size | 252 records |
-| Free sample size | 25 records (9.92%) |
-| Last export | 2026-04-16T15:36:20.099118+00:00 |
+| Full dataset size | 247 records |
+| Free sample size | 24 records (9.72%) |
+| Last export | 2026-04-23T13:36:50.464021+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lake-forest-california-us-sample-553401/releases/download/sample-latest/beamstation_553401_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
