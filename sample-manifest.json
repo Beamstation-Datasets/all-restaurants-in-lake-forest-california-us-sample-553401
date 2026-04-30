@@ -1,12 +1,12 @@
 {
-  "export_job_id": "07bf0f61-5418-4c54-af86-53875bd74c2e",
+  "export_job_id": "0ad3059a-a7be-4d02-b33d-386860727374",
   "id_short": 553401,
-  "published_at": "2026-04-23T19:10:45Z",
+  "published_at": "2026-04-30T19:14:44Z",
   "repo_name": "all-restaurants-in-lake-forest-california-us-sample-553401",
   "sample_asset_name": "beamstation_553401_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/553401/beamstation_553401_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "2c5c36b601bcc190c285b90915bdda3977cd3796701c7fa2cad764306b39b2e1",
-  "sample_size_bytes": 106344,
-  "total_records": 247
+  "sample_records": 18,
+  "sample_sha256": "de3e7f8efcb8e47cf4244d592c51caa3297430f5767bbd2cbed64d69fd1910c0",
+  "sample_size_bytes": 87702,
+  "total_records": 186
 }
